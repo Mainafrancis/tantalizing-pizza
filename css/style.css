@@ -148,3 +148,11 @@ header nav a{
     font-size: 1.3rem;
     color: black;
 }
+.btn{
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20%;
+    font-size: 20px;
+    background-color: lightcoral;
+
+}
