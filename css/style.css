@@ -236,3 +236,23 @@ header nav a{
     border: none;
     border-bottom: .3rem solid grey;
 }
+textarea{
+    resize: none;
+}
+.copyright{
+    display: flex;
+    margin-top: 5rem;
+    padding: 3rem;
+    text-align: center;
+    justify-content: space-between;
+    background: grey;
+}
+.copyright i{
+    font-size: 2rem;
+    color: white;
+}
+.copyright p{
+    letter-spacing: .1rem;
+    font-size: 1.5rem;
+    color: white;
+}
