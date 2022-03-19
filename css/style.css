@@ -158,6 +158,7 @@ header nav a{
 .form{
     background-color: #f2f2f2;
     padding: 5% 15% 5% 15%;
+    background-color: rgba(0, 0, 0, .4);
 }
 #order{
     background: url(../images/pizza-boxes-358029_1920.jpg);
