@@ -48,3 +48,7 @@ header nav a{
     padding-bottom: 30px;
     font-weight: 400;
 }
+.main p{
+    color: red;
+    font-weight: 100;
+}
