@@ -37,3 +37,8 @@ header nav a{
     align-items: center;
     justify-content: center;
 }
+.main h1{
+    font-size: 4em;
+    color: yellow;
+    padding-bottom: 50px;
+}
