@@ -30,6 +30,16 @@ header nav a{
     text-decoration: none;
     color: white;
 }
+.head .navbar a{
+    color: red;
+    font-size: 1.6rem;
+    font-weight: 600;
+    margin: 0.2rem;
+}
+.heads .navbar a:hover{
+    color: aqua;
+    transition: .4s ease;
+}
 .main{
     display: flex;
     flex-direction: column;
