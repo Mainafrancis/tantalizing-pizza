@@ -88,10 +88,9 @@ header nav a{
     animation: icon 4s ease infinite;
 }
 .about-content{
-    background: rgba(0, 0, 0, .8);
     background-size: cover;
     background-position: center;
-    color: red;
+    color: black;
 }
 .about .btn{
     border: .1rem solid red;
