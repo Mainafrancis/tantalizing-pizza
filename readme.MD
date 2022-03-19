@@ -16,7 +16,7 @@ This website has been gradually created displaying a pizza restaurant that offer
 ## Setup.
 To get a local copy of the site:
 
-`git clone https://github.com/mainafrancis/delani.git`
+`git clone https://github.com/mainafrancis/tantalizing-pizza.git`
 
 `Extract` the cloned file.
 
@@ -26,13 +26,13 @@ To get a local copy of the site:
 
 ## Technologies used.
 * HTML5
-* CSS3
+* CSS
 * Bootstrap
 * Javascript
-* JQuery
+
 
 ## Bugs.
-Still haven't configured the mailchimp api with the webpage.
+No bugs.
 
 ## License
 >MIT LICENSE
