@@ -102,3 +102,13 @@ header nav a{
     font-size: 1.4rem;
     font-weight: 600;
 }
+.about-inner h5{
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.about-inner h5:hover{
+    transform: translateX(2rem);
+    transition: 1s ease;
+}
