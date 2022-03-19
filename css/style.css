@@ -131,7 +131,7 @@ header nav a{
     background: rgba(0, 0, 0, .6);
 }
 .inner-box:hover{
-    background: red;
+    background: yellow;
     transition: .5s ease all;
 }
 .inner-box img{
