@@ -36,7 +36,7 @@ header nav a{
     font-weight: 600;
     margin: 0.2rem;
 }
-.heads .navbar a:hover{
+.head .navbar a:hover{
     color: aqua;
     transition: .4s ease;
 }
