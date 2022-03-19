@@ -210,7 +210,7 @@ header nav a{
 }
 .contact-inner-col img{
     width: 100%;
-    height: auto;
+    height: 100vh;
     margin: 1.5rem;
     padding: 1rem;
 }
@@ -220,4 +220,19 @@ header nav a{
     font-size: 3rem;
     letter-spacing: .1rem;
     text-transform: capitalize;
+}
+.contact-inner-col p{
+    padding: .5rem 0;
+    line-height: 1.5rem;
+    font-size: 1.5rem;
+    text-transform: capitalize;
+    color-interpolation-filters: linearRGB;
+}
+.contact-inner-col input,
+.contact-inner-col textarea{
+    width: 80%;
+    padding: 1rem;
+    margin-bottom: 1.2rem;
+    border: none;
+    border-bottom: .3rem solid grey;
 }
