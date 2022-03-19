@@ -174,14 +174,14 @@ header nav a{
 }
 .order-summary .make, .order-summary .pick{
     color: #fff;
-    background-color: #de681d;
+    background-color: lightseagreen;
     border: none;
     box-shadow: none;
     padding: 1% 1% 1% 1%;
     border-radius: 3vw;
 }
 .delivery{
-    background-color: #202126;
+    background-color: lightgrey;
     padding: 2% 2% 2% 2%;
     width: 50%;
     margin-left: 20%;
