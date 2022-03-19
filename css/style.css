@@ -42,3 +42,9 @@ header nav a{
     color: yellow;
     padding-bottom: 50px;
 }
+.main h3{
+    font-size: 3em;
+    color: aqua;
+    padding-bottom: 30px;
+    font-weight: 400;
+}
