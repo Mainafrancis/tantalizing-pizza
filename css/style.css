@@ -118,7 +118,7 @@ header nav a{
     transform: translateX(2rem);
     transition: 1s ease;
 }
-.service-content{
+.gallery-content{
     padding: 1rem 0;
     display: grid;
     grid-template-columns: 1.2fr 1.2fr 1.2fr;
