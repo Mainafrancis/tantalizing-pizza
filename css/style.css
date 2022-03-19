@@ -52,3 +52,12 @@ header nav a{
     color: red;
     font-weight: 100;
 }
+.button{
+    width: 250px;
+    padding: 20px 15px;
+    border: 2px solid green;
+    border-radius: 5px;
+    margin-top: 40px;
+    color: green;
+    text-decoration: none;
+}
