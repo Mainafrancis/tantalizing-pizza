@@ -133,3 +133,11 @@ header nav a{
     background: red;
     transition: .5s ease all;
 }
+.inner-box img{
+    width: 15rem;
+    height: 15rem;
+}
+.inner-box p{
+    font-size: 1.3rem;
+    color: black;
+}
