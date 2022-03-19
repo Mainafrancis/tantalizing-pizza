@@ -191,3 +191,20 @@ header nav a{
 .delivery input{
     border: none;
 }
+.contact{
+    padding-top: 3rem;
+}
+.contact-sec{
+    width: 100%;
+}
+.contact-inner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.contact-inner-col{
+    margin: 2rem;
+    flex: 1 1 20rem;
+    text-align: center;
+}
