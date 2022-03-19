@@ -110,6 +110,10 @@ header nav a{
     text-transform: capitalize;
     font-weight: 700;
 }
+.about-inner .fas{
+    color: red;
+    padding-right: 1rem;
+}
 .about-inner h5:hover{
     transform: translateX(2rem);
     transition: 1s ease;
