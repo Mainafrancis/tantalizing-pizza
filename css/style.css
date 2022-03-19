@@ -168,3 +168,15 @@ header nav a{
     padding: 10% 20% 10% 20%;
     border-radius: 4vw;
 }
+.order-summary{
+    background-color: #f2f2f2;
+    padding-bottom: 2%;
+}
+.order-summary .make, .order-summary .pick{
+    color: #fff;
+    background-color: #de681d;
+    border: none;
+    box-shadow: none;
+    padding: 1% 1% 1% 1%;
+    border-radius: 3vw;
+}
