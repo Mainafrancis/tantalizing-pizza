@@ -1,16 +1,12 @@
 # Pizza website
 
 [Check it out](https://mainafrancis.github.io/tantalizing-pizza/)
+
 ## Description.
 This website has been gradually created displaying a pizza restaurant that offers fried pizzas which are crispy,cheesy and finger licking good!!!
 
 ## Author
 >Francis Mwangi
-
-## Screenshot.
-![Screenshot from 2022-03-19 07-47-51](/home/moringa/Pictures/Screenshot from 2022-03-19 19-47-04.png)
-![Screenshot from 2022-03-19 07-47-58](/home/moringa/Pictures/Screenshot from 2022-03-19 19-47-12.png)
-![Screenshot from 2022-03-19 07-48-04](/home/moringa/Pictures/Screenshot from 2022-03-19 19-47-19.png)
 
 
 ## Setup.
@@ -20,7 +16,7 @@ To get a local copy of the site:
 
 `Extract` the cloned file.
 
-`cd` to Delani-Studio folder.
+`cd` to tantalizing-pizza folder.
 
 *Launch* `index.html` file.
 
