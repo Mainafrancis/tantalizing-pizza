@@ -208,3 +208,16 @@ header nav a{
     flex: 1 1 20rem;
     text-align: center;
 }
+.contact-inner-col img{
+    width: 100%;
+    height: auto;
+    margin: 1.5rem;
+    padding: 1rem;
+}
+.contact-inner-col h1{
+    padding: 1rem 0;
+    color: red;
+    font-size: 3rem;
+    letter-spacing: .1rem;
+    text-transform: capitalize;
+}
