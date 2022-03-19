@@ -180,3 +180,13 @@ header nav a{
     padding: 1% 1% 1% 1%;
     border-radius: 3vw;
 }
+.delivery{
+    background-color: #202126;
+    padding: 2% 2% 2% 2%;
+    width: 50%;
+    margin-left: 20%;
+    border-radius: 3vw;
+}
+.delivery input{
+    border: none;
+}
