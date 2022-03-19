@@ -129,3 +129,7 @@ header nav a{
     border: .1rem solid black;
     background: white;
 }
+.inner-box:hover{
+    background: red;
+    transition: .5s ease all;
+}
